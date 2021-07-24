@@ -1,1 +1,1 @@
-# CoviCare-SelfCheckup-Website
+# CoviCare-Self-Checkup-Website
